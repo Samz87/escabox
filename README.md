@@ -1,2 +1,0 @@
-# escabox
-jukebox colaboratif
